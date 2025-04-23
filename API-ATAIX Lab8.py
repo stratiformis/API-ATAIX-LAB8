@@ -1,7 +1,7 @@
 import json
 import requests
 
-API_KEY = "ME6en7C3E34dUrqTmanNlBXMjdvnQVs8td2ECHMMU0J2E6X5wMLfpKS1xWMF9TJ4thK4PQDdMd6eCYcy26rK2T"
+API_KEY = ""
 API_BASE_URL = "https://api.ataix.kz/api/orders"
 ORDERS_FILE = "orders_data.json"
 
